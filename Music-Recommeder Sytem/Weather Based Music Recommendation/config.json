@@ -1,0 +1,11 @@
+{
+    "client_id": "",
+    "client_secret": "",
+    "db_host" : "",
+    "db_name" : "",
+    "db_user" : "",
+    "db_port" : "",
+    "db_pw": "",
+    "ip_key": "",
+    "weather_key": ""
+}

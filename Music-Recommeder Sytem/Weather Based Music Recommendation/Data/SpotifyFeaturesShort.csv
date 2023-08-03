@@ -1,0 +1,20 @@
+﻿genre,artist_name,track_name,track_id,popularity,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+Movie,Henri Salvador,C'est beau de faire un Show,0BRjO6ga9RKCKjfDqeFgWV,0,0.611,0.389,99373,0.91,0,C#,0.346,-1.828,Major,0.0525,166.969,4/4,0.814
+Movie,Martin & les fées,Perdu d'avance (par Gad Elmaleh),0BjC1NfoEOOusryehmNudP,1,0.246,0.59,137373,0.737,0,F#,0.151,-5.559,Minor,0.0868,174.003,4/4,0.816
+Movie,Joseph Williams,Don't Let Me Be Lonely Tonight,0CoSDzoNIKCRs124s9uTVy,3,0.952,0.663,170267,0.131,0,C,0.103,-13.879,Minor,0.0362,99.488,5/4,0.368
+Movie,Henri Salvador,Dis-moi Monsieur Gordon Cooper,0Gc6TVm52BwZD07Ki6tIvf,0,0.703,0.24,152427,0.326,0,C#,0.0985,-12.178,Major,0.0395,171.758,4/4,0.227
+Movie,Fabien Nataf,Ouverture,0IuslXpMROHdEPvSl1fTQK,4,0.95,0.331,82625,0.225,0.123,F,0.202,-21.15,Major,0.0456,140.576,4/4,0.39
+Movie,Henri Salvador,Le petit souper aux chandelles,0Mf1jKa8eNAf1a4PwTbizj,0,0.749,0.578,160627,0.0948,0,C#,0.107,-14.97,Major,0.143,87.479,4/4,0.358
+Movie,Martin & les fées,"Premières recherches (par Paul Ventimila, Lorie Pester, Véronique Jannot, Michèle Laroque & Gérard Lenorman)",0NUiKYRd6jt1LKMYGkUdnZ,2,0.344,0.703,212293,0.27,0,C#,0.105,-12.675,Major,0.953,82.873,4/4,0.533
+Movie,Laura Mayne,Let Me Let Go,0PbIF9YVD505GutwotpB5C,15,0.939,0.416,240067,0.269,0,F#,0.113,-8.949,Major,0.0286,96.827,4/4,0.274
+Movie,Chorus,Helka,0ST6uPfvaPpJLtQwhE6KfC,0,0.00104,0.734,226200,0.481,0.00086,C,0.0765,-7.725,Major,0.046,125.08,4/4,0.765
+Movie,Le Club des Juniors,Les bisous des bisounours,0VSqZ3KStsjcfERGdcWpFO,10,0.319,0.598,152694,0.705,0.00125,G,0.349,-7.79,Major,0.0281,137.496,4/4,0.718
+Movie,Leopold Stokowski,Symphony No.4 In E Minor Op.98 : IV. Allegro Energico E Passionato,0XKgegoxLcIihK3Klpfo3N,0,0.921,0.191,566960,0.145,0.529,E,0.141,-17.239,Minor,0.0393,85.225,4/4,0.0849
+Movie,Randy Newman,The Hanging (Maverick - Original Motion Picture Score) - Remastered,0hprxsuRM5vVCOfaM7l3gQ,2,0.0383,0.23,121333,0.133,0.887,C,0.0872,-19.051,Major,0.0302,91.739,4/4,0.118
+Movie,Idoles De La Musique,J'ai demandé à la lune,0jF6HUm18fg6QQCLHhfhC0,4,0.215,0.68,213589,0.6,0.0729,F#,0.111,-7.702,Minor,0.0258,110.026,4/4,0.433
+Movie,Chorus,Mangala Aarti,0jIY0oRAp1T4mezDyEhOad,3,0.958,0.758,308627,0.264,0,D#,0.0543,-11.966,Major,0.0496,110.068,3/4,0.742
+Movie,Richard M. Sherman,Keys of Love,0pXwl2CRP5awxHsF9eET3L,0,0.97,0.4,159253,0.174,0.933,G,0.13,-13.869,Major,0.0458,115.022,4/4,0.27
+Movie,Michel Roux,Les aventures d'Arsène Lupin: 813 - Partie 6,0uWUjxM7oDPKpb3T2y3oZm,0,0.548,0.588,2447870,0.405,0,G#,0.754,-15.55,Major,0.938,83.56,3/4,0.48
+Movie,Jean Claude Corbel,Diane,0vS7Zid3q0dMyX8uMnlQ8s,0,0.7,0.625,523424,0.237,0,D,0.319,-16.655,Major,0.561,108.508,3/4,0.298
+Movie,Bernard Minet,Ultra Man 80,0x8xSaoSfQkOYUnG1nbga0,3,0.488,0.744,178107,0.953,0,E,0.453,-4.986,Major,0.037,129.959,4/4,0.926
+Movie,Henri Salvador,Veunise,113pHPsGwyeklEjLhnB3ZT,1,0.381,0.451,194360,0.491,0,D,0.152,-8.73,Major,0.0548,71.633,3/4,0.516
